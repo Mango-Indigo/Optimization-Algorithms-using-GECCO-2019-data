@@ -1,10 +1,9 @@
 Traveling Salesman Problem
 --------------------------------
 The Traveling Salesman Problem is where a Salesman has to travel to all given cities and this section explores algorithms that selects the solution that takes the least distance.
-------------------------------------
 
-
-
+Genetic Algorithm
+-------------------------------
   The class works using the following steps:
   1. Convert the datafiles to a cost matrix that contains the distance of all possible cities combinations.
   2. Generate a population of possible paths modeled as genetic chromosomes and calculate their distances.
