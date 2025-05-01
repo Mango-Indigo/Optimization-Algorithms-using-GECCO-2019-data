@@ -5,7 +5,7 @@ The data used has ben taken from [GECCO 2019](https://github.com/blankjul/gecco1
 
 
 There are two main problem types solved:
-1. Travelling Salesman Problem
-2. Travelling Thief Problem <br>
+1. Travelling Salesman Problem (TSP)
+2. Travelling Thief Problem (TTP) <br>
 
 To run the python code download the repo and the run the run file in each folder.
